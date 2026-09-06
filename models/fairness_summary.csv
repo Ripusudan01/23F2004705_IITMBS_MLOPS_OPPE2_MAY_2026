@@ -1,0 +1,4 @@
+metric,value
+test_accuracy,0.9830508474576272
+demographic_parity_difference,1.0
+equalized_odds_difference,1.0
