@@ -1,0 +1,14 @@
+Running 1m test @ http://34.93.99.223/predict
+  8 threads and 2001 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     6.74s     1.82s   10.00s    68.21%
+    Req/Sec    28.46     30.28   430.00     87.03%
+  Latency Distribution
+     50%    6.91s 
+     75%    8.05s 
+     90%    8.96s 
+     99%    9.86s 
+  9937 requests in 1.00m, 2.41MB read
+  Socket errors: connect 0, read 697, write 30, timeout 948
+Requests/sec:    165.44
+Transfer/sec:     41.04KB
