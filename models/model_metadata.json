@@ -1,0 +1,31 @@
+{
+  "features": [
+    "sno",
+    "age",
+    "gender",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "gender_mapping": {
+    "male": 0,
+    "female": 1
+  },
+  "target_values": [
+    "no",
+    "yes"
+  ],
+  "best_params": {
+    "C": 0.615848211066026,
+    "solver": "liblinear"
+  },
+  "test_accuracy": 0.9830508474576272
+}
