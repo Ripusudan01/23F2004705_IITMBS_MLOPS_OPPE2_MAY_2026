@@ -1,0 +1,15 @@
+feature,method,psi,status
+sno,Numeric PSI,7.574318,Significant drift
+age,Numeric PSI,0.628357,Significant drift
+gender,Categorical PSI,0.055059,No significant drift
+cp,Categorical PSI,0.135341,Moderate drift
+trestbps,Numeric PSI,1.359631,Significant drift
+chol,Numeric PSI,1.129523,Significant drift
+fbs,Categorical PSI,1.23247,Significant drift
+restecg,Categorical PSI,0.810169,Significant drift
+thalach,Numeric PSI,0.866951,Significant drift
+exang,Categorical PSI,0.037328,No significant drift
+oldpeak,Numeric PSI,1.929262,Significant drift
+slope,Categorical PSI,0.425997,Significant drift
+ca,Categorical PSI,0.699803,Significant drift
+thal,Categorical PSI,1.761139,Significant drift
